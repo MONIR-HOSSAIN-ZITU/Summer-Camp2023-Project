@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #F8F8F8;
+    display: flex;
+    padding: 40px;
+    box-shadow: 5px 5px 7px rgba(0,0,0,0.4);
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+}
+nav {
+    margin-left: auto;
+}
